@@ -1,0 +1,13 @@
+.profile-card {     
+     border: 1px solid #ccc;    
+     padding: 20px;  
+     margin: 10px 0;
+     width: 300px;    
+     text-align: center; } 
+.highlight {     background-color: rgb(255, 255, 158) !important;  
+        transition: background-color 0.3s ease; /* Adiciona uma transição suave */ } 
+.boldtext { font-weight: bold; }
+.tecnologia {     background-color: #f0f8ff; } 
+.alimentos {     background-color: #fff0f5; } 
+.brinquedos {     background-color: #f5fffa; }
+ 
